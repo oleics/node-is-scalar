@@ -1,5 +1,6 @@
 {
   "name": "is-scalar",
+  "description": "Check if a value is scalar or not.",
   "version": "1.0.0",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
   "license": "MIT"
