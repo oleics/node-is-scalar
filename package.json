@@ -3,5 +3,6 @@
   "description": "Check if a value is scalar or not.",
   "version": "1.0.1",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "oleics/node-is-scalar"
 }
