@@ -7,14 +7,14 @@ Check if a value is scalar or not. `null` or `undefined` is considered to be sca
 Install
 -------
 
-``bash
+```bash
 npm install is-scalar
-``
+```
 
 Usage
 -----
 
-``js
+```js
 var isScalar = require('is-scalar');
 
 isScalar(null); // true
@@ -26,7 +26,7 @@ isScalar(new Symbol('bar')); // true
 
 isScalar({}); // false
 isScalar([]); // false
-``
+```
 
 MIT License
 -----------
