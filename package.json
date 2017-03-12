@@ -1,7 +1,7 @@
 {
   "name": "is-scalar",
   "description": "Check if a value is scalar or not.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
   "license": "MIT",
   "repository": "oleics/node-is-scalar"
